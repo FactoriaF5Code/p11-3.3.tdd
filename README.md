@@ -2,10 +2,10 @@
 Antes de empezar: 
 
 ```
-    npm install
+npm install
 ```
 
 Para lanzar los tests:
 ```
-    npm test
+npm test
 ```
